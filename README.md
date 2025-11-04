@@ -1,2 +1,2 @@
-# wordle
-GUI-based Wordle clone using Tkinter and other standard libraries
+# Wordle
+GUI-based Wordle clone using Tkinter and other standard libraries.
